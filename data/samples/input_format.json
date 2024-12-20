@@ -1,0 +1,36 @@
+[
+    {
+        "item_reference_id": "item_ref_id_1",
+        "question_reference_id": "question_ref_id_1",
+        "question_stimulus": "Which of the following is the correct answer?",
+        "question_options": [
+            {
+                "label": "First option",
+                "value": "0"
+            },
+            {
+                "label": "Second option",
+                "value": "1"
+            },
+            {
+                "label": "Third option",
+                "value": "2"
+            },
+            {
+                "label": "Fourth option",
+                "value": "3"
+            }
+        ],
+        "valid_response_values": [
+            "1"
+        ],
+        "question_rationales": [
+            "Explanation for first option",
+            "Explanation for second option",
+            "Explanation for third option",
+            "Explanation for fourth option"
+        ],
+        "activity_reference_id": "activity_ref_id_1",
+        "activity_title": "Activity Title"
+    }
+]

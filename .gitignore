@@ -1,0 +1,8 @@
+/data/*
+/venv
+__pycache__/
+config.json
+
+# allow samples
+!/data/samples/
+!/data/samples/**
